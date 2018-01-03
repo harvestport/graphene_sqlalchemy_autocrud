@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='graphene_sqlalchemy_autocrud',
-    version='0.0.1',
+    version='0.0.2',
     author='Brent Tubbs',
     author_email='brent.tubbs@gmail.com',
     packages=find_packages(),
